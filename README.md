@@ -41,8 +41,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Aadhi000/OP-Files-Store-Bot
-cd File-Sharing-Bot
+git clone https://github.com/SIMAB007/OP-Files-Store-Bot.git
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
